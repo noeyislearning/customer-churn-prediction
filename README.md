@@ -1,3 +1,3 @@
-# Summer Olympics
+# Customer Churn Prediction
 
- Provides in-depth insights into the historical trends,  patterns, and achievements of the Summer Olympics. By leveraging a rich dataset, we explore various aspects of the games.
+Demonstrating the application of Artificial Neural Networks (ANNs) for predicting customer churn. By leveraging a dataset with various customer attributes, the model aims to identify customers at risk of terminating their business relationship.
